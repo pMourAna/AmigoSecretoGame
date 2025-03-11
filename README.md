@@ -1,4 +1,5 @@
 <h1 align="center"> Mini jogo Amigo Secreto </h1>;
+
 ![Capa "mini game Amigo secreto"](https://github.com/user-attachments/assets/b8859e26-2935-420b-ad9b-0cbac1f90062);
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge)  
