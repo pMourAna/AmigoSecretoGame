@@ -1,13 +1,9 @@
-<h1 align="center"> Mini jogo Amigo Secreto </h1>;
+<h1 align="center"> Mini jogo Amigo Secreto </h1>
 
-![Capa "mini game Amigo secreto"](https://github.com/user-attachments/assets/b8859e26-2935-420b-ad9b-0cbac1f90062);
+![Capa "mini game Amigo secreto"](https://github.com/user-attachments/assets/b8859e26-2935-420b-ad9b-0cbac1f90062)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge) ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) ![Projeto Amigo Secreto](https://img.shields.io/badge/Projeto-Amigo%20Secreto-orange?style=for-the-badge) ![Feito com 💖](https://img.shields.io/badge/Feito%20com-%F0%9F%92%96-pink?style=for-the-badge)  ![Status](https://img.shields.io/badge/Status-concluido-brightgreen)
 
-
-![Status](https://img.shields.io/badge/Status-concluido-brightgreen)
-
-![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) ![Projeto Amigo Secreto](https://img.shields.io/badge/Projeto-Amigo%20Secreto-orange?style=for-the-badge) ![Feito com 💖](https://img.shields.io/badge/Feito%20com-%F0%9F%92%96-pink?style=for-the-badge)  
 ![Deploy no GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-black?style=for-the-badge&logo=github) ![GitHub Org's stars](https://img.shields.io/github/stars/menu-pMourAna/AmigoSecretoGame?style=social)
 
 <h2 align="center"> Descrição do Projeto </h2>
