@@ -21,14 +21,15 @@
 <h2 align="center"> Acesso ao Projeto </h2>
 <p>Você pode acessar e testar o projeto</p>👇
 
-🌟  ![Aqui!](https://amigo-secreto-game.vercel.app) 🌟
+🌟  [<sub align="center">Aqui!</sub>](https://amigo-secreto-game.vercel.app) 🌟
 
 <h2 align="center"> Tecnologias utilizadas </h2>
 •JavaScript
 
 •HTML5
 •CSS3
-<h2 align="center"> Pessoas desenvolvedoras do Projeto </h2>
+
+<h2 align="center"><strong> Pessoas desenvolvedoras do Projeto</strong></h2>
 
 ![201160319](https://github.com/user-attachments/assets/151ff4ee-c46a-4760-8648-7465af1ce0d2) 
 
