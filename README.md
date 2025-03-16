@@ -19,8 +19,9 @@
 <strong>Sorteio aleatório:</strong> Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
 
 <h2 align="center"> Acesso ao Projeto </h2>
-<p>Você pode acessar e testar o projeto</p>👇
+<p>Você pode acessar e testar o projeto</p>
 
+     👇
 🌟  [<sub align="center">Aqui!</sub>](https://amigo-secreto-game.vercel.app) 🌟
 
 <h2 align="center"> Tecnologias utilizadas </h2>
