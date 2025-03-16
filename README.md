@@ -20,6 +20,7 @@
 
 <h2 align="center"> Acesso ao Projeto </h2>
 <p>Você pode acessar e testar o projeto</p> 
+
 🌟  [<sub align="center">Aqui!</sub>](https://amigo-secreto-game.vercel.app) 🌟
 
 <h2 align="center"> Tecnologias utilizadas </h2>
